@@ -1,0 +1,19 @@
+{
+  "name": "wa0303",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChillyWilly01/WA0303.git"
+  },
+  "author": "GTA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChillyWilly01/WA0303/issues"
+  },
+  "homepage": "https://github.com/ChillyWilly01/WA0303#readme"
+}
