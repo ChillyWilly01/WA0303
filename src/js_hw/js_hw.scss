@@ -1,0 +1,70 @@
+body{
+  height: 100vw;
+  overflow: hidden;
+}
+
+.commentForm{
+  display: block;
+  width: 100%;
+  overflow: auto;
+  height: 35vw;
+}
+
+.border{
+  width: 50%;
+  border-radius: 3px;
+  border: 2px solid #adafb3;
+  font-size: 1rem;
+  margin-top: 2rem;
+  padding: 0.5rem;
+  &:active,
+  &:focus{
+    border: 2px solid #44bcff;
+  }
+}
+
+.commentForm-user{
+
+}
+
+.commentForm-text{
+}
+
+.commentForm-btn{
+  cursor: pointer;
+  color: white;
+  background-color: #44bcff;
+  border: 2px solid #44bcff;
+}
+
+#newElement{
+  overflow: scroll;
+  height: 100vw;
+}
+
+.commentBlock{
+  width: 100%;
+  display: block;
+}
+
+.user{
+  color: #44bcff;
+  text-transform: capitalize;
+  font-family: sans-serif;
+  font-size: 1.5rem;
+  padding: 1rem 0;
+  word-wrap: break-word;
+  width: 52%;
+
+}
+
+.comment{
+  color: black;
+  font-family: sans-serif;
+  font-size: 1rem;
+  word-wrap: break-word;
+  width: 52%;
+  line-height: 1.2rem;
+  padding-bottom: 3rem;
+  border-bottom: 2px solid #adafb3;
+}
