@@ -1,0 +1,48 @@
+//.lighter{
+//  width: 110px;
+//  border: 1px solid #0f4b1e;
+//  margin: 0 auto;
+//}
+//
+//.light{
+//  border-radius: 50%;
+//  background-color: #feffa8;
+//  width: 100px;
+//  height: 100px;
+//  margin: 0.3rem;
+//}
+//
+//.red.active{
+//  background-color: red;
+//}
+//
+//.orange.active{
+//  background-color: orange;
+//}
+//
+//.green.active{
+//  background-color: green;
+//}
+
+.box{
+  width: 150px;
+  border: 1px solid grey;
+  margin: 0 auto;
+  background-color: #f0ff99;
+}
+.btn{
+  margin: 0.7rem;
+}
+.light{
+  border: 1px solid grey;
+  border-radius: 50%;
+  background-color: white;
+  width: 30px;
+  height: 30px;
+  margin: 0.8rem;
+  display: inline-block;
+}
+
+.light.active{
+  background-color: red;
+}
