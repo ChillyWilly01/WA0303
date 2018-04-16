@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ChillyWilly01/WA0303/issues"
   },
-  "homepage": "https://github.com/ChillyWilly01/WA0303#readme"
+  "homepage": "https://github.com/ChillyWilly01/WA0303#readme",
+  "devDependencies": {
+    "gh-pages": "^1.1.0"
+  }
 }
